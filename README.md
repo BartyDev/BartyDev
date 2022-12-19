@@ -31,7 +31,7 @@
 </br>
 
 
- 
+ ---
  <details><summary><h3 align="start">🥇 Certificates</h3></summary>
    
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
