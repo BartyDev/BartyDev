@@ -1,6 +1,6 @@
 
 <div align="center">
-<iframe src="https://giphy.com/embed/QZkpIdieotn3i" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QZkpIdieotn3i">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/QZkpIdieotn3i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/QZkpIdieotn3i">via GIPHY</a></p>
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
 <h4>Digital Craftsman (Developer Front End)</h4>
 </div>
