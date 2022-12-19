@@ -1,7 +1,7 @@
 
 <div align="center">
    <a targert="_blank" href="https://www.linkedin.com/feed/">
-         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344733-12c5102d-c5ba-40fd-a41b-b71ce80efba8.png"/></a>
+         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a>
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
 <h4>(Developer Front End)</h4>
 </div>
@@ -54,6 +54,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [Twitter]: https://twitter.com/home
    
    
+
 
 
 
