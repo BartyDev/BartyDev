@@ -2,8 +2,7 @@
 <div align="center">
    <h1>👋 Hi! I' Am BartyDev 🧑‍💻</h1>
    <a targert="_blank" href="https://www.linkedin.com/feed/">
-         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a>
-</div>
+         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a></div>
 
 #
 
