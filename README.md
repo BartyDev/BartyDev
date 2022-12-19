@@ -1,6 +1,6 @@
 
 <div align="center">
-   <a href="https://giphy.com/embed/QZkpIdieotn3i"></a>
+   
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
 <h4>Digital Craftsman (Developer Front End)</h4>
 </div>
@@ -40,7 +40,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
 
 
 #
