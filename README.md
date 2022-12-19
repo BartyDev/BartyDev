@@ -1,7 +1,7 @@
 
 #<div align="center">
 
-<h1>👋 Hi! I' Am BartyDev 🧑‍💻</h1>
+<h1>👋 Hi! I' Am <strong>BartyDev</strong> 🧑‍💻</h1>
 <h4>Digital Craftsman (Developer Front End)</h4>
 </div>
 
