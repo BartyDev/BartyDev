@@ -14,7 +14,6 @@
 ---
 
 ### 🧰 Languages and Tools
-
 #
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -38,7 +37,6 @@
 
 
 ### 📊 Stats
-
 #
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
@@ -46,7 +44,6 @@
 </br >
 
 ### 📊 Languages
-
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8&theme=radical)](https://github.com/BartyDev/github-readme-stats)
@@ -56,7 +53,6 @@
 
 
 ### 🧑‍💻 Social Networks
-
 #
 
 <ul>
