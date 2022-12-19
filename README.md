@@ -15,6 +15,8 @@
 
 ### 🧰 Languages and Tools
 
+#
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -23,9 +25,6 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
-
-
-#
 
 <details>
  <summary><h3>🥇 Certificates</h3></summary>
@@ -40,11 +39,15 @@
 
 ### 📊 Stats
 
+#
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
 
 </br >
 
 ### 📊 Languages
+
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8&theme=radical)](https://github.com/BartyDev/github-readme-stats)
 
@@ -53,6 +56,9 @@
 
 
 ### 🧑‍💻 Social Networks
+
+#
+
 <ul>
    <li>[LinkedIn]: https://www.linkedin.com/feed/</li>
    <li>[Twitter]: https://twitter.com/home</li>
