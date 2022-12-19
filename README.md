@@ -29,22 +29,20 @@
 
 <details>
  <summary><h3>🥇 Certificates</h3></summary></details>
-
-
-
+ 
+ #
 
 
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #
-
-
 
 
 ### 🧑‍💻 Social Networks
@@ -55,11 +53,3 @@
    <li></li>
    <li></li>
 </ul>
-
-
-   
-   
-
-
-
-
