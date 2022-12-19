@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
----
+
 
 ### 🧰 Languages and Tools
 
