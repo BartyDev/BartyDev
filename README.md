@@ -42,15 +42,16 @@
 
 
 ### 🧑‍💻 Social Networks
+
 <ul>
-   <li></li>
-   <li></li>
+   <li>[LinkedIn]: https://https://www.linkedin.com/feed/</li>
+   <li>[Twitter]: https://twitter.com/home</li>
    <li></li>
    <li></li>
    <li></li>
 </ul>
-[LinkedIn]: https://https://www.linkedin.com/feed/
-[Twitter]: https://twitter.com/home
+
+
    
    
 
