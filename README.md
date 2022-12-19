@@ -27,7 +27,8 @@
 
 #
 
-### 🥇 Certificates
+<details>
+ <summary><h3>🥇 Certificates</h3></summary>
 
 
 
@@ -42,8 +43,8 @@
 
 
 
-<details>
- <summary><h3>🧑‍💻 Social Networks</h3></summary>
+
+### 🧑‍💻 Social Networks
 <ul>
    <li>[LinkedIn]: https://https://www.linkedin.com/feed/</li>
    <li>[Twitter]: https://twitter.com/home</li>
