@@ -28,7 +28,7 @@
 #
 
 <details>
- <summary><h3>🥇 Certificates</h3></summary>
+ <summary><h3>🥇 Certificates</h3></summary></details>
 
 
 
