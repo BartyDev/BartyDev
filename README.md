@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img align="left" alt="Git" width="200px"  src="https://giphy.com/embed/QZkpIdieotn3i" />
+   <a href="https://giphy.com/embed/QZkpIdieotn3i"></a>
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
 <h4>Digital Craftsman (Developer Front End)</h4>
 </div>
