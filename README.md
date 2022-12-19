@@ -1,9 +1,9 @@
 
 <div align="center">
    <a targert="_blank" href="https://www.linkedin.com/feed/">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208343221-4b4c5f92-5b64-42a1-9928-8a2f01e34a65.png"/></a>
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
-<h4>Digital Craftsman (Developer Front End)</h4>
+<h4>(Developer Front End)</h4>
 </div>
 
 
@@ -54,3 +54,5 @@ I'm an indie full-stack developer and content creator building my version of the
 [Twitter]: https://twitter.com/home
    
    
+
+
