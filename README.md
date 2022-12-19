@@ -29,6 +29,7 @@
 
 <details>
  <summary><h3>🥇 Certificates</h3></summary>
+   
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -41,9 +42,11 @@
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
 
+</br >
+
 ### 📊 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8&theme=radical)](https://github.com/BartyDev/github-readme-stats)
 
 
 #
