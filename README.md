@@ -41,8 +41,9 @@
 #
 
 
-### 🧑‍💻 Social Networks
 
+<details>
+ <summary><h3>🧑‍💻 Social Networks</h3></summary>
 <ul>
    <li>[LinkedIn]: https://https://www.linkedin.com/feed/</li>
    <li>[Twitter]: https://twitter.com/home</li>
