@@ -1,17 +1,11 @@
 
 <div align="center">
+   <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
    <a targert="_blank" href="https://www.linkedin.com/feed/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a>
-<h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
-<h4>(Developer Front End)</h4>
 </div>
 
-
-
-
-
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+<p>I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
 
    <p align="center">
       <a href="https://github.com/BartyDev?tab=followers">
