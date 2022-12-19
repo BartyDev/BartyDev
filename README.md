@@ -1,8 +1,8 @@
 
 #<div align="center">
 
-<h1>🧑‍💻 BartyDev</h1>
-<h4>**`Digital Craftsman (Developer Front End)`**</h4>
+<h1>👋 Hi! I' Am BartyDev 🧑‍💻</h1>
+<h4>Digital Craftsman (Developer Front End)</h4>
 </div>
 
 
