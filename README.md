@@ -42,7 +42,13 @@
 
 
 ### 🧑‍💻 Social Networks
-<ul
+<ul>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
 [LinkedIn]: https://https://www.linkedin.com/feed/
 [Twitter]: https://twitter.com/home
    
