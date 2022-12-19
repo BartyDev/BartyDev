@@ -1,6 +1,7 @@
 
 <div align="center">
-   
+   <a targert="_blank" href="https://www.linkedin.com/feed/">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <h1>👋 Hi! I' Am <strong style:color="ff02e">BartyDev</strong> 🧑‍💻</h1>
 <h4>Digital Craftsman (Developer Front End)</h4>
 </div>
@@ -17,7 +18,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
-
+---
 
 ### 🧰 Languages and Tools
 
@@ -51,3 +52,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [LinkedIn]: https://https://www.linkedin.com/feed/
 [Twitter]: https://twitter.com/home
+   
+   
