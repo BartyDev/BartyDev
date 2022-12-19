@@ -29,6 +29,9 @@
 
 <details>
  <summary><h3>🥇 Certificates</h3></summary></details>
+ <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
  #
 
@@ -47,9 +50,8 @@
 
 ### 🧑‍💻 Social Networks
 <ul>
-   <li>[LinkedIn]: https://https://www.linkedin.com/feed/</li>
+   <li>[LinkedIn]: https://www.linkedin.com/feed/</li>
    <li>[Twitter]: https://twitter.com/home</li>
-   <li></li>
-   <li></li>
-   <li></li>
+   <li>[Instagram]: https://www.instagram.com/b4rtyyt/?next=%2F</li>
+   <li>[Coder]: https://plataforma.coderhouse.com/perfil-2021</li>
 </ul>
