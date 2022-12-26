@@ -62,6 +62,6 @@
 <ul>
    <li>[LinkedIn]: https://www.linkedin.com/feed/</li>
    <li>[Twitter]: https://twitter.com/home</li>
-   <li>[Instagram]: https://www.instagram.com/b4rtyyt/?next=%2F</li>
-   <li>[Coder]: https://plataforma.coderhouse.com/perfil-2021</li>
+   <li>[Perfil-Coder]: https://plataforma.coderhouse.com/perfil-2021</li>
+   <li>[Perfil-Platzi]: https://platzi.com/p/bart91/</li>
 </ul>
