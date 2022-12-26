@@ -34,9 +34,11 @@
 
  <details><summary><h3 align="start">🥇 Certificates</h3></summary>
 </br>
- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
+<a targert="_blank" href="https://www.linkedin.com/in/bartydesing/details/certifications/">
+         <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/209587454-df7a24e9-a639-4eef-b744-28fa510d6d36.jpeg"/></a>
+ 
    
  </details>
  
@@ -65,3 +67,4 @@
    <li>[Perfil-Coder]: https://plataforma.coderhouse.com/perfil-2021</li>
    <li>[Perfil-Platzi]: https://platzi.com/p/bart91/</li>
 </ul>
+
