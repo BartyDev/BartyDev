@@ -6,12 +6,12 @@
 <p>👋 ¡Hola! Soy BartyDev 🧑, soy un estudiante autodidacta de desarrollo web, especialmente en el área de front-end, y mi pasión por este mundo comenzó especialmente debido a mi amor por los videojuegos (¡los amo!😎). Me gustaría ser algún día programador de videojuegos y crear una comunidad increíble estos son solo pequeños pero importantes pasos, a partir de ahora puedes contar conmigo para compartir conocimientos y llevar a cabo proyectos,puedes visitarme en mi página de LinkedIn haciendo click en el enlace mas abajo 🫶 ¡SALUDOS!.</p>
 
 <p>
-   <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=1e69ca&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=1e69ca"/></a>
    <a href="https://www.linkedin.com/in/bartydesing/">
-         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="LinkedIn follow" title="follow to my LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=1e69ca&label=follow to my LinkedIn"/></a>
+   <a href="https://github.com/BartyDev?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/BartyDev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star"/></a>
 </p>
 
 
