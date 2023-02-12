@@ -34,13 +34,13 @@
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
-
 </br >
+
 ### 📊 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BartyDev&langs_count=8&theme=radical)](https://github.com/BartyDev/github-readme-stats)
-
 </br >
+
 ### 🧑‍💻 Social Networks
 
 <ul>
