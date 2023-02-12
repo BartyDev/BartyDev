@@ -6,12 +6,9 @@
         
 <p>👋 Hi! I' Am BartyDev 🧑‍ , I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
 
-
 ---
-</br >
 
-
-### 🧰 Skills in Languages and Tools
+### Skills in Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -23,7 +20,6 @@
 
 </br>
  <details><summary><h3 align="start">🥇 Certificates</h3></summary>
-
 <a targert="_blank" href="https://www.linkedin.com/in/bartydesing/details/certifications/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/209587454-df7a24e9-a639-4eef-b744-28fa510d6d36.jpeg"/></a>
  
