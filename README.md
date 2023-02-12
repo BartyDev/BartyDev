@@ -31,8 +31,6 @@
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/209587454-df7a24e9-a639-4eef-b744-28fa510d6d36.jpeg"/></a>
 </details>
 
-</br>
-
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=BartyDev&show_icons=true&theme=radical)
