@@ -9,6 +9,7 @@
 ---
 
 ### Skills in Languages and Tools
+</br>
 <div>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -20,8 +21,8 @@
 </div>   
 </br>
 
-</br>
  <details><summary><h3 align="start">🥇 Certificates</h3></summary>
+   </br>
 <a targert="_blank" href="https://www.linkedin.com/in/bartydesing/details/certifications/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/209587454-df7a24e9-a639-4eef-b744-28fa510d6d36.jpeg"/></a>
 </details>
