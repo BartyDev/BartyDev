@@ -3,7 +3,7 @@
    <a targert="_blank" href="https://www.linkedin.com/feed/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a></div>
 </br >    
-<p>👋 Hi! I' Am BartyDev 🧑‍ , I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
+<p>👋 ¡Hola! Soy BartyDev 🧑, soy un estudiante autodidacta de desarrollo web, especialmente en el área de front-end, y mi pasión por este mundo comenzó especialmente debido a mi amor por los videojuegos (¡los amo!😎). Me gustaría ser algún día programador de videojuegos y crear una comunidad increíble estos son solo pequeños pero importantes pasos, a partir de ahora puedes contar conmigo para compartir conocimientos y llevar a cabo proyectos,puedes visitarme en mi página de LinkedIn haciendo click en el enlace mas abajo 🫶 ¡SALUDOS!.</p>
 
 ---
 
