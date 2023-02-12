@@ -7,7 +7,7 @@
 
 <p>
    <a href="https://www.linkedin.com/in/bartydesing/">
-         <img alt="LinkedIn follow" title="follow to my LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=1e69ca&label=follow to my LinkedIn"/></a>
+         <img alt="LinkedIn follow" title="follow to my LinkedIn" src="https://custom-icon-badges.demolab.com?color=1e69ca&label=follow to my LinkedIn&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
    <a href="https://github.com/BartyDev?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/BartyDev?tab=repositories&sort=stargazers">
