@@ -6,9 +6,9 @@
 <p>👋 ¡Hola! Soy BartyDev 🧑, soy un estudiante autodidacta de desarrollo web, especialmente en el área de front-end, y mi pasión por este mundo comenzó especialmente debido a mi amor por los videojuegos (¡los amo!😎). Me gustaría ser algún día programador de videojuegos y crear una comunidad increíble estos son solo pequeños pero importantes pasos, a partir de ahora puedes contar conmigo para compartir conocimientos y llevar a cabo proyectos,puedes visitarme en mi página de LinkedIn haciendo click en el enlace mas abajo 🫶 ¡SALUDOS!.</p>
 
 <p>
-   <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+   <a href="https://www.linkedin.com/in/bartydesing/">
+         <img alt="followers" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/LinkedIn/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/BartyDev?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
