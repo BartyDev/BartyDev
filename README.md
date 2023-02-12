@@ -1,11 +1,10 @@
 
 <div align="center">
-   <h1>👋 Hi! I' Am BartyDev 🧑‍💻</h1>
    <a targert="_blank" href="https://www.linkedin.com/feed/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a></div>
          </br >
         
-<p>I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
+<p>👋 Hi! I' Am BartyDev 🧑‍ , I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
 
 
 ---
@@ -22,16 +21,13 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></br>
 
-
- <details><summary><h3 align="start">🥇 Certificates</h3></summary>
 </br>
-
+ <details><summary><h3 align="start">🥇 Certificates</h3></summary>
 
 <a targert="_blank" href="https://www.linkedin.com/in/bartydesing/details/certifications/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/209587454-df7a24e9-a639-4eef-b744-28fa510d6d36.jpeg"/></a>
  
-   
- </details>
+</details>
  
 </br >
 
