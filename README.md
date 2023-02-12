@@ -6,7 +6,7 @@
          </br >
          <p align="center">
      
-         <a><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <a target="_blank"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/BartyDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 <p>I' am a self-taught student of web development, especially in the front-end area, and m passion for this world started especially because of my love of video games (I love them!😎). I would like to be one day a video game programmer and create an incredible community these are just small but important steps, from now on you can count on me to share knowledge and carry out projects, GREETINGS!.</p>
 
