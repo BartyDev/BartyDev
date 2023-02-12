@@ -7,7 +7,7 @@
 
 ---
 
-### Skills in Languages and Tools
+### 🧰 Skills in Languages and Tools
 
 </br>
 
@@ -24,7 +24,7 @@
 </br>
 
 <details>
-<summary><h3 align="start">🥇 Certificates</h3></summary>
+<summary><h3 align="start">### 🥇 Certificates</h3></summary>
    
 </br>
 <a targert="_blank" href="https://www.linkedin.com/in/bartydesing/details/certifications/">
