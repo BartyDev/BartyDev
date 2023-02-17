@@ -1,6 +1,6 @@
 
 <div align="center">
-   <a targert="blank" href="https://www.linkedin.com/feed/">
+   <a targert="_blank" href="https://www.linkedin.com/feed/">
          <img alt="follow" title="Follow me on LinkedIn" src="https://user-images.githubusercontent.com/98855728/208344899-309353e1-b835-4430-8cd8-9d8508db3b6a.png"/></a></div>
 </br >    
 <p align="center">👋 ¡Hola! Soy BartyDev 🧑, soy un estudiante autodidacta de desarrollo web, especialmente en el área de front-end, y mi pasión por este mundo comenzó especialmente debido a mi amor por los videojuegos (¡los amo!😎). Me gustaría ser algún día programador de videojuegos y crear una comunidad increíble estos son solo pequeños pero importantes pasos, a partir de ahora puedes contar conmigo para compartir conocimientos y llevar a cabo proyectos 🫶  🎮 🧑‍💻</p>
