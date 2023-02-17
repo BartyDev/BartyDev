@@ -5,8 +5,9 @@
 </br >    
 <p align="center">👋 ¡Hola! Soy BartyDev 🧑, soy un estudiante autodidacta de desarrollo web, especialmente en el área de front-end, y mi pasión por este mundo comenzó especialmente debido a mi amor por los videojuegos (¡los amo!😎). Me gustaría ser algún día programador de videojuegos y crear una comunidad increíble estos son solo pequeños pero importantes pasos, a partir de ahora puedes contar conmigo para compartir conocimientos y llevar a cabo proyectos 🫶</p>
 
+
 <div style="display:flex;">
-<p align="center">
+<p>
    Sigueme en <a targert="_blank" href="https://www.linkedin.com/feed/"><img alt="LinkedIn" width="100px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /><a/> 🧑‍💻    
 </p>
 </div>
