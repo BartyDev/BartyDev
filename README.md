@@ -7,8 +7,9 @@
 
 <p align="center">
    Sigueme en  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-          
+   <a targert="_blank" href="https://www.linkedin.com/feed/">
+   <img alt="LinkedIn" width="30px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+   <a/> 🧑‍💻    
 </p>
 
 
